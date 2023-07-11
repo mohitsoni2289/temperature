@@ -1,2 +1,2 @@
 # temperature_converter
-task using html css javascript j
+This task has been completed using html, css & javascript to make a simple temperature conversion tool.
